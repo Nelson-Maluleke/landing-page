@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>German Vehicles</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> <!-- link href-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link href="./styles.css" rel="stylesheet">
+</head>
+<body>
+  <section class="main-section">  
+    <section class="header section-1">
+      <header class="head">
+        <div class="head-container">       
+          <div class="img"> <img class="logo" src="https://www.svgrepo.com/show/183955/alloy-wheel-wheel.svg" alt="Logo"> </div>
+          <div class="nav-link">
+            <div class="link container"><a href="">About</a></div>  <!--link-->
+            <div class="link container"><a href="">Pricing</a></div> <!--link-->
+            <div class="link container"><a href="">Website</a></div> <!--link-->
+          </div>  
+        </div>
+      </header>
+    </section>
+
+    <section class="hero intro section-2">
+      <section class="intro-text">
+        <h1 class="intro-h">The pinnacle of engineering</h1>
+        <p class="intro-p">This website features a selection of premium German automotive brands celebrated worldwide for their excellence and craftsmanship</p>
+        <button class="button intro-btn" type="button">Sign up</button>
+      </section>
+      <div><img class="intro-img"src="https://images.pexels.com/photos/5423333/pexels-photo-5423333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="racer"></div>
+    </section>
+
+    <section class="main-info section-3">
+      <div class="sec3-text"><h2>Some random information</h2></div>
+      <div class="sec3-img">
+        <div class="card-1 cards">
+          <div class="brand-container">
+             <img class="brand" src="https://www.svgrepo.com/show/452160/audi.svg" alt="Audi logo">
+             <img class="brand-hover" src="https://i.pinimg.com/236x/40/88/1c/40881cc5a91b7fef21c23338727592ce.jpg" alt="Audi RS logo">
+          </div>
+          <p class="p">Explore Audi</p>
+        </div>
+        
+        <div class="card-2 cards">
+          <div class="brand-container">
+            <img class="brand" src="https://i.pinimg.com/236x/38/4c/89/384c89de3e784a46b2a9c5cfee1a0b3b.jpg" alt="BMW logo"> 
+            <img class="brand-hover" src="https://i.postimg.cc/c40W1tnh/bmw-m-series-1-logo-svgrepo-com.png" alt="BMW M logo">
+          </div>
+          <p class="p">Explore BMW</p>
+        </div>
+
+        <div class="card-3 cards">
+          <div class="brand-container">
+            <img class="brand" src="https://i.postimg.cc/9QBrFj0R/mercedes-benz-2-logo-svgrepo-com.png" alt="Mercedes logo">
+            <img class="brand-hover" src="https://i.postimg.cc/dVJVfS6q/amg-logo-svgrepo-com.png" alt="Mercedes AMG logo">
+          </div>  
+          <p class="p">Explore Mercedes</p>
+        </div>
+
+        <div class="card-4 cards">
+          <div class="brand-container">
+            <img class="brand" src="https://i.postimg.cc/RVXkMs9C/volkswagen-3-logo-svgrepo-com.png" alt="Volkswagen logo">
+            <img class="brand-hover" src="https://i.pinimg.com/564x/0c/39/5f/0c395f3cdff80a04d22782a19f1fc0a1.jpg" alt="Volkswagen R-line logo">
+          </div>
+          <p class="p">Explore Volkswagen</p>
+        </div>
+      </div>   
+    </section> 
+
+    <section class="section-4">
+      <blockquote class="quote">Every roar of the engine, every curve of the road, German vehicles redefine what it means to drive with passion and purpose.</blockquote>
+    </section> 
+
+    <section class="section-5">
+      <div class="sign-up">
+        <p class="s-up">Call to action! it's time!</p>
+        <button class="sign-up-btn" type="button">Sign up</button>
+      </div>
+    </section> 
+
+    <footer class="footer">
+      <p class="author">
+        Copyright ©
+        <script>
+          document.write(new Date().getFullYear())
+        </script>
+        Nelson Maluleke
+      </p>
+      <a class="git" href="https://github.com/Nelson-Maluleke" target="_blank"> <!-- monitor-->
+      <i class="fa-brands fa-github"></i></a>
+    </footer>
+  </section>
+</body>
+</html>
