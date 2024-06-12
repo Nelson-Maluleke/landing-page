@@ -1,1 +1,1 @@
-https://nelson-maluleke.github.io/landing-page0/
+https://nelson-maluleke.github.io/landing-page/
