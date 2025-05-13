@@ -1,1 +1,1 @@
-https://nelson-maluleke.github.io/landing-page/
+https://sebola-machethe.github.io/landing-page/
